@@ -1,1 +1,37 @@
+openapi: 3.0.0
+info:
+title: Law Enforcement Intake API
+version: 1.0.0
+description: Enables data intake from SmartBorder systems into law enforcement databases (e.g. FBI, CBP, ICE).
+
+paths:
+/intake/report:
+post:
+summary: Submit law enforcement alert package
+requestBody:
+content:
+application/json:
+schema:
+$ref: '#/components/schemas/IntakePackage'
+responses:
+'202':
+description: Accepted for processing
+
+components:
+schemas:
+IntakePackage:
+type: object
+properties:
+incident_id:
+type: string
+node_id:
+type: string
+suspect_details:
+type: object
+media_refs:
+type: array
+items:
+type: string
+escalation_level:
+type: string
 
