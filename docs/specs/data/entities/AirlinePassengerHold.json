@@ -1,1 +1,8 @@
-
+{
+"passenger_id": "string",
+"flight_number": "string",
+"hold_reason": "string",
+"hold_type": ["soft", "hard"],
+"timestamp": "ISO-8601 string",
+"airline_notified": true
+}
