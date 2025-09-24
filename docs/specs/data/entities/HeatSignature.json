@@ -1,1 +1,9 @@
 
+{
+"person_id": "string",
+"capture_time": "ISO-8601 string",
+"sensor_node": "string",
+"gait_vector": [0.015, -0.212, 0.003],
+"confidence": 0.94,
+"alert_flag": false
+}
