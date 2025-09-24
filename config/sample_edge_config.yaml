@@ -1,1 +1,35 @@
+# sample_edge_config.yaml
+# Starlink-SmartBorder-Security – Edge Node Configuration Example
+# © LORI Framework | Used at distributed border sensor nodes
+
+edge_node:
+id: "edge-rio-grande-north-034"
+location: "Rio Grande Sector - North Post"
+uplink:
+type: "Starlink"
+redundancy: true
+bandwidth_limit: "10Mbps"
+sensors:
+thermal: true
+gait_analysis: true
+voiceprint_scan: false
+lidar_motion: true
+edge_ai_modules:
+gait_model: "gait_fusion_v1.2"
+thermal_trigger: "heatshift_anomaly_detector"
+realtime_alert: true
+override_thresholds:
+gait_score: 0.85
+thermal_delta: 12.0
+local_retention:
+max_storage_days: 3
+auto_purge_on_uplink: true
+power_backup:
+solar: true
+battery_hours: 12
+
+security:
+encrypted_firmware: true
+tamper_log: enabled
+kill_switch: manual + remote
 
