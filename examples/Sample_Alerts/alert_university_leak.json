@@ -1,1 +1,8 @@
-
+{
+"type": "university_data_leak",
+"location": "MIT-CSAIL Cloud Endpoint",
+"flagged_behavior": "unsanctioned export of quantum-sim code",
+"AI_verdict": "High confidence",
+"triggered_by": "outflow-control/Device_Search_Protocol",
+"log_id": "U2025-EXF-QC1337"
+}
