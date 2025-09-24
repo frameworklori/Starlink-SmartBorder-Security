@@ -109,7 +109,7 @@ Module Creator: **Founder of the LORI Framework**
 Timestamp: **2025-09-24**
 rameworklori/Starlink-SmartBorder-Security 的主要時間戳如下：
 
-建立時間（created_at）：約 24 天前（2025-09-01 左右
+建立時間（created_at）：約 24 天前 2025-09-01 左右
 Created At 2025-09-01  (approx.24 days ago)
 
 最近更新時間（updated_at）：5 分鐘前（2025-09-24 23:28 左右）
