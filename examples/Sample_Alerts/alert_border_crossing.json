@@ -1,1 +1,7 @@
-
+{
+"event_type": "CROSSING_ALERT",
+"heat_signature_group": 5,
+"time": "02:14 AM",
+"trajectory_pattern": "reverse entry",
+"risk_level": "R4"
+}
