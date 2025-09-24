@@ -1,1 +1,7 @@
-
+{
+"event_type": "HOLD_ALERT",
+"location": "LAX Gate B17",
+"trigger": "no-fly list match",
+"passenger_id_hash": "a8c23f90...",
+"action": "SecurityNotified"
+}
