@@ -1,1 +1,14 @@
 
+Lori Framework <frameworklori@gmail.com>
+10:53 PM (2 minutes ago)
+to me
+
+{
+"inspection_id": "uuid",
+"officer_id": "string",
+"location": "string",
+"detected_items": ["string"],
+"followup_required": true,
+"notes": "text",
+"timestamp": "ISO-8601 string"
+}
