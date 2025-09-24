@@ -1,1 +1,28 @@
+# sample_cloud_config.yaml
+# Starlink-SmartBorder-Security – Cloud Node Template
+# © LORI Framework | Example configuration file for cloud-side module
 
+cloud_node:
+id: "smartborder-us-west-cloud-001"
+region: "us-west-1"
+provider: "aws-govcloud"
+encryption:
+data_at_rest: "AES-256"
+data_in_transit: "TLS1.3"
+logging:
+enabled: true
+log_rotation_days: 15
+log_sink: "s3://secure-bucket/smartborder/logs/"
+ai_module:
+alert_engine: "suspicious_crossing_detector_v3"
+escalation_policy:
+max_false_positive_rate: 0.02
+auto_escalate_to: "DHS_Admin"
+retention_policy:
+thermal_imaging: 72h
+device_ids: 14d
+AI_alerts: 30d
+
+maintenance:
+patch_schedule: "weekly"
+auto_failover: true
