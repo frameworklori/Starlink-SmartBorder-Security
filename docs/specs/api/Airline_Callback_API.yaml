@@ -1,1 +1,37 @@
+openapi: 3.0.0
+info:
+title: Airline Callback Notification API
+version: 1.0.0
+description: Enables U.S. airlines to receive and respond to SmartBorder alerts regarding flagged passengers.
+
+paths:
+/airline/callback:
+post:
+summary: Callback from DHS threat system
+requestBody:
+required: true
+content:
+application/json:
+schema:
+$ref: '#/components/schemas/PassengerAlert'
+responses:
+'200':
+description: Acknowledged
+
+components:
+schemas:
+PassengerAlert:
+type: object
+properties:
+passenger_id:
+type: string
+flight_number:
+type: string
+alert_level:
+type: string
+enum: [green, yellow, red]
+hold_required:
+type: boolean
+reason:
+type: string
 
