@@ -1,1 +1,12 @@
 
+{
+"device_id": "string",
+"hash_id": "sha256 string",
+"exfiltration_signatures": ["LLM_checkpoint", "VPN_logs"],
+"suspicious_files": ["filename.ext"],
+"cloud_access_log": {
+"domains": ["string"],
+"geo_variance": "float"
+},
+"is_escalated": true
+}
