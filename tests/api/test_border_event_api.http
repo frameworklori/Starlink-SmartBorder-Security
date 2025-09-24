@@ -1,4 +1,4 @@
-### Trigger Border Event
+
 POST http://localhost:8000/api/border-event
 Content-Type: application/json
 
