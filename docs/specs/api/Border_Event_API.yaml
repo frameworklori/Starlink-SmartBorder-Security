@@ -1,1 +1,36 @@
+openapi: 3.0.0
+info:
+title: Border Event Logging API
+version: 1.0.0
+description: Logs SmartNode-triggered border events into the DHS event system.
 
+paths:
+/border/event:
+post:
+summary: Log new border event
+requestBody:
+content:
+application/json:
+schema:
+$ref: '#/components/schemas/BorderEvent'
+responses:
+'201':
+description: Event logged
+
+components:
+schemas:
+BorderEvent:
+type: object
+properties:
+timestamp:
+type: string
+format: date-time
+node_id:
+type: string
+geo_hash:
+type: string
+event_type:
+type: string
+enum: [thermal_anomaly, voiceprint_flag, gait_violation]
+severity:
+type: string
