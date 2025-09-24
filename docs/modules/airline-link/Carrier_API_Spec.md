@@ -33,3 +33,10 @@ This specification defines how airlines transmit passenger manifest and receive 
 "review_required": true
 }
 
+
+Notes:
+Communication encrypted (TLS 1.3)
+
+All flags expire after 12 hours unless refreshed
+
+---
