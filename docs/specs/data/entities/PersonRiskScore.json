@@ -1,1 +1,11 @@
-
+{
+"person_id": "string",
+"risk_score": 0.78,
+"source_factors": {
+"device": true,
+"travel_pattern": false,
+"sensor_behavior": true
+},
+"last_updated": "ISO-8601 string",
+"recommended_action": "review | hold | ignore"
+}
