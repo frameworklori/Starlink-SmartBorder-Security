@@ -1,12 +1,9 @@
 
 {
-"person_id": "string",
-"risk_score": 0.78,
-"source_factors": {
-"device": true,
-"travel_pattern": false,
-"sensor_behavior": true
-},
-"last_updated": "ISO-8601 string",
-"recommended_action": "review | hold | ignore"
+"voice_id": "string",
+"embedding": [0.23, 0.11, -0.04],
+"matched_to_watchlist": false,
+"match_confidence": 0.87,
+"language_profile": "en-US",
+"last_seen": "ISO-8601 string"
 }
