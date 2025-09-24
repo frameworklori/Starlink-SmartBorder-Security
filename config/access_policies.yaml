@@ -1,1 +1,46 @@
+# access_policies.yaml
+# Starlink-SmartBorder-Security Access Control Schema
+# © LORI Framework | Internal Security Blueprint
+
+roles:
+- name: DHS_Admin
+privileges:
+- full_data_access
+- module_override
+- audit_log_export
+- escalation_approval
+zones:
+- all
+expiration_days: 365
+
+- name: CBP_Officer
+privileges:
+- view_alerts
+- device_scan_results
+- issue_manual_override
+zones:
+- entry_port
+- border_check
+expiration_days: 180
+
+- name: TSA_Checkpoint_Agent
+privileges:
+- pre_board_flag_view
+- passenger_manifest_link
+zones:
+- airport_gate
+expiration_days: 90
+
+- name: External_Auditor
+privileges:
+- audit_log_view
+- access_policy_readonly
+zones:
+- redacted_logs_only
+expiration_days: 30
+
+default:
+role: "CBP_Officer"
+access_on_fail: "deny"
+log_every_request: true
 
