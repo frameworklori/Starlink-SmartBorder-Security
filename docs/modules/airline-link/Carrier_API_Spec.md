@@ -21,6 +21,13 @@ This specification defines how airlines transmit passenger manifest and receive 
 
 ---
 
+Notes:
+Communication encrypted (TLS 1.3)
+
+All flags expire after 12 hours unless refreshed
+
+---
+
 ## Endpoint 2: Risk Flag Feedback
 `GET /api/v1/risk-review/:passenger_id`
 
@@ -34,9 +41,3 @@ This specification defines how airlines transmit passenger manifest and receive 
 }
 
 
-Notes:
-Communication encrypted (TLS 1.3)
-
-All flags expire after 12 hours unless refreshed
-
----
