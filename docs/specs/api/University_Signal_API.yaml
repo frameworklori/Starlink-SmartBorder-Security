@@ -1,1 +1,38 @@
+openapi: 3.0.0
+info:
+title: University Signal Review API
+version: 1.0.0
+description: Enables flagged activity within university systems to be transmitted securely to DHS-Education Review Board.
+
+paths:
+/university/signal:
+post:
+summary: Transmit signal about outbound academic risk
+requestBody:
+content:
+application/json:
+schema:
+$ref: '#/components/schemas/OutboundRiskSignal'
+responses:
+'200':
+description: Signal received
+
+components:
+schemas:
+OutboundRiskSignal:
+type: object
+properties:
+student_id:
+type: string
+university:
+type: string
+risk_vector:
+type: string
+enum: [AGI_export, IP_exfiltration, grant_misuse]
+device_inventory:
+type: array
+items:
+type: string
+faculty_acknowledged:
+type: boolean
 
