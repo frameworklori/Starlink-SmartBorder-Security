@@ -28,3 +28,13 @@ Governed by international copyright and trade secret law under the Berne Convent
 **Creator Declaration:**  
 This license asserts 100% original authorship and exclusive moral and commercial rights.  
 Signed digitally and timestamped: **2025-10-10**
+
+{
+  "repo": "Starlink-SmartBorder-Security",
+  "authorized_party": "Grok AI / xAI",
+  "consent_type": "Limited Review Only",
+  "authorized_by": "Founder of the LORI Ethical System",
+  "signature_hash": "SHA256-xxxxxx",
+  "timestamp": "2025-10-10T12:00:00Z",
+  "valid_until": "2026-10-10T00:00:00Z"
+}
