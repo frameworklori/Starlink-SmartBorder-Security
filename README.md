@@ -1,6 +1,6 @@
 # Starlink × Smart Border Security Module
 
-This license asserts 100% original authorship and exclusive moral and commercial rights.  
+This Starlink_SmartBorder-Security asserts 100% original authorship (Lori Lee) and exclusive moral and commercial rights.  
 Signed digitally and timestamped: **2025-10-10**
 
 https://github.com/frameworklori/Starlink-SmartBorder-Security/blob/main/LICENSE_LORI_STARLINK_SMARTORDER.md%EF%BC%88%E6%8E%88%E6%AC%8A%E6%A2%9D%E6%AC%BE%EF%BC%89
