@@ -1,6 +1,6 @@
 # Starlink × Smart Border Security Module
 
-This Starlink_SmartBorder-Security asserts 100% original authorship （Ｌori LEE） and exclusive moral and commercial rights.  
+This Starlink_SmartBorder-Security asserts 100% original authorship （Lori ChingFang Lee )and exclusive moral and commercial rights.  
 Signed digitally and timestamped: **2025-10-10**
 
 Grok is a systematic AI and an auxiliary system, not a human subject. All usage rights, decision-making rights, and intellectual property rights belong to the human subject, and cannot be used without the consent of non-human subjects.
