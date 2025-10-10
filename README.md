@@ -1,5 +1,7 @@
 # Starlink × Smart Border Security Module
 
+https://github.com/frameworklori/Starlink-SmartBorder-Security/blob/main/LICENSE_LORI_STARLINK_SMARTORDER.md%EF%BC%88%E6%8E%88%E6%AC%8A%E6%A2%9D%E6%AC%BE%EF%BC%89
+
 > © 2025 – LORI Framework by the Founder of the LORI Ethical System
 > Status: Semantic Sovereignty Assertion + Deployment Invitation to Grok (xAI)
 > Repo Path: `frameworklori/Starlink-smartBorder-Security`
