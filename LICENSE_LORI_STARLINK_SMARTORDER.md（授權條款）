@@ -37,4 +37,7 @@ Signed digitally and timestamped: **2025-10-10**
   "signature_hash": "SHA256-xxxxxx",
   "timestamp": "2025-10-10T12:00:00Z",
   "valid_until": "2026-10-10T00:00:00Z"
+
+Ownership and Authorship
+The entirety of the Starlink-SmartBorder-Security module is authored, originated, and fully owned by the LORI Framework creator. Disclosure, collaboration, or technical review does not constitute assignment, sale, or license. Any cooperation shall require a separate, signed agreement defining scope, payment, and use rights.
 }
