@@ -127,9 +127,7 @@ Lastrr Pushed At 2025-09-24 ((23:27:54(UTC))
 
 Original Semantic Design Image: `IMG_2FF1...jpg` + `IMG_B94E...jpg` + `IMG_64F8...jpg` (internal archive)
 
-### Ownership and Authorship
-The entirety of the DHS-Starlink-SmartBorder-Security
- module is authored, originated, and fully owned by the LORI Framework creator.  
-Disclosure, collaboration, or technical review **does not constitute assignment, sale, or license**.  
+## Ownership and Authorship
+The entirety of the Starlink-SmartBorder-Security module is authored, originated, and fully owned by the LORI Framework creator.
+Disclosure, collaboration, or technical review does not constitute assignment, sale, or license.
 Any cooperation shall require a separate, signed agreement defining scope, payment, and use rights.
-
