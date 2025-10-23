@@ -1,7 +1,3 @@
-以下是生成的正式報告內容，可儲存為
-/reports/SmartBorder_Feasibility_Report.md：
-
-⸻
 
 🛰️ Smart Border Feasibility Report v1.0
 
