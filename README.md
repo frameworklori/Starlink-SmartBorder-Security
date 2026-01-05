@@ -46,36 +46,23 @@ The goal is to offer a **modular, auditable, and cooperative security architectu
 ---
 
 ## 🔐 File Structure (Partial)
+````text
 Starlink-smartBorder-Security/
-
 ├── README.md
-
 ├── LICENSE_LORI_PrivateModule_v1.md
-
 ├── security/
-
 │   ├── schemas.md ← [⚠️ Required Grok Review: Schema Logic for Detection → Alert]
-
 │   └── trust-zones-map.json
-
 ├── diagrams/
-
 │   ├── Satellite_Node_Overlay.png
-
 │   └── Thermal_Detection_Pipeline.svg
-
 ├── data-samples/
-
 │   ├── migration-patterns-MX-TX.csv
-
 │   └── false-positive-cases.json
-
 └── ethics/
-
 ├── LORI_CoGov_Safeguards.md
-
 └── Humanitarian_Prioritization_Logic.md
-
+````
 ---
 
 ## 🔁 Deployment Request to Grok (xAI)
