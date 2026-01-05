@@ -63,9 +63,8 @@ Starlink-smartBorder-Security/
 ├── LORI_CoGov_Safeguards.md
 └── Humanitarian_Prioritization_Logic.md
 ````
----
 
--[Related_Work](Related_WORK.md)-Existing AI-Driven Border Surveillance system Current border security technologies heavily rely on Ai for detection and monitoring, but often prioritize enforcement over humanitarian concerns
+-[Related_Work](Related_WORK.md)-Discussions on privacy, human rights, life safety, and ethics.
 
 ## 🔁 Deployment Request to Grok (xAI)
 
