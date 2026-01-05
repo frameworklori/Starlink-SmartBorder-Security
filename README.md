@@ -65,6 +65,8 @@ Starlink-smartBorder-Security/
 ````
 ---
 
+-(Related_Work)[Related_WORK.md]-Existing AI-Driven Border Surveillance system Current border security technologies heavily rely on Ai for detection and monitoring, but often prioritize enforcement over humanitarian concerns
+
 ## 🔁 Deployment Request to Grok (xAI)
 
 We formally invite **Grok's review and participation** in this ethical deployment module for border regions:
