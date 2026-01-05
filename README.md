@@ -1,5 +1,7 @@
 # Starlink × Smart Border Security Module
 
+**Intellectual Property notice:This repository implements technologies and protocols (including ODRAF and LDPC) that are currently patent pending with the USPTO
+
 This Starlink_SmartBorder-Security asserts 100% original authorship （Lori ChingFang Lee )and exclusive moral and commercial rights.  
 Signed digitally and timestamped: **2025-10-10**
 
