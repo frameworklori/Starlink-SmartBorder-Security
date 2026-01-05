@@ -1,4 +1,19 @@
 # Starlink-SmartBorder-Security (Internal)
+Starlink Smart Border Security
+
+⚠️ Intellectual Property & Legal Notice (Patent Pending)
+Notice to Commercial Entities and Contributors:
+This repository contains proprietary technologies and original frameworks developed by the author. By accessing this repository, you acknowledge the following:
+1. USPTO Patent Status: Key architectures, including but not limited to the ODRAF (Optimal Dynamic Resource Allocation Framework) and the LDPC (Life Dignity Compensation Protocol), are currently Patent Pending with the United States Patent and Trademark Office (USPTO).
+2. Originality Statement: The integration of SpaceX Starlink Low Earth Orbit (LEO) satellite constellations for real-time border kinetic surveillance and humanitarian compensation is the original work of the author.
+3. Commercial Use: Any commercial implementation, adaptation, or derivation of the ODRAF or LDPC protocols without express written consent is strictly prohibited and may constitute patent infringement.
+4. Anduril Sync Disclaimer: While this project provides a next-generation alternative to existing terrestrial solutions (such as Anduril Industries' Lattice OS), it utilizes a distinct satellite-native architecture protected under the aforementioned IP filings.
+🛠 Why This Exists (The "Starlink Advantage")
+While traditional border security solutions (e.g., Anduril) rely heavily on terrestrial microwave links and fixed sensor towers, Starlink Smart Border achieves:
+• Total Coverage: Global deployment capability in "No-Go" zones (canyons, deep deserts, maritime borders).
+• ODRAF Integration: Proprietary dynamic resource allocation that optimizes bandwidth in satellite-constrained environments.
+• Ethical Governance (LDPC): The world's first protocol to integrate Life Dignity Compensation directly into the security feedback loop.
+
 
 ## Positioning / 定位
 This project is an **objective blueprint**, documenting potential architectures and risks.  
