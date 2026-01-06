@@ -51,6 +51,14 @@ We do **not** make policy; responsibility belongs to **U.S. elected decision-mak
    - Civil liberties → avoid democracy eroding into surveillance state  
    - 國安 → 避免專制政體利用敏感技術發展 AGI  
    - 自由 → 避免民主社會內部過度監控
+----
+Comparison with Terrestrial Legacy Systems (e.g., Lattice OS):
+
+- Connectivity: Traditional systems rely on terrestrial line-of-sight; our framework is Space-Native, utilizing Starlink LEO constellations for 100% global coverage.
+
+- Resource Management: Unlike static bandwidth allocation, our ODRAF protocol optimizes uplink priority in satellite-constrained environments.
+
+- Ethical Framework: This project introduces the LDPC protocol, bridging the gap between autonomous security and humanitarian compliance—a feature currently absent in industry-standard defense OS.
 
 ---
 
