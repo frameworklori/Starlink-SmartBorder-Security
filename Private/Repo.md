@@ -26,6 +26,7 @@ This project is an **objective blueprint**. We **do not** make policy; responsib
    - Civil liberties → avoid democracy eroding into surveillance state
 
 Starlink-SmartBorder-Security/
+```text
 ├── README.md                # 詳細版（含技術模組、風險）
 ├── DISCLAIMER.md             # 強調客觀藍圖 & 責任在決策者
 ├── LICENSE                   # 嚴格版（禁止商業 & 政府部署，需書面同意）
@@ -34,3 +35,4 @@ Starlink-SmartBorder-Security/
 ├── SECURITY.md               # 回報誤用或濫用風險
 ├── PRIVACY.md                # 說明 mock data & 不處理個資
 └── NOTICE.md                 # 僅供研究用途，不代表官方
+````
