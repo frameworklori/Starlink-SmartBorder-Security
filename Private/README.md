@@ -24,6 +24,18 @@ We do **not** make policy; responsibility belongs to **U.S. elected decision-mak
 
 ---
 
+The Pricelessness of Life: Why are people willing to traverse mountains and leave their homeland in pursuit of a better life for survival?
+
+Second-Class Citizens: The challenges of living in a non-native country—the ability to adapt to the environment, language proficiency, cultural customs, values, and sense of belonging.
+
+Social Cost: The fairness of resource redistribution in the receiving country. The growing divide, misunderstandings, and conflicts between citizens and non-citizens.
+
+The Tension of Ambiguous Legal Boundaries: Human rights, values, cultural habits, democracy and freedom, ethical and moral standards.
+
+Extended Context (the remaining paragraph):
+
+Every country has finite resources. Under the framework of rights and obligations, domestic citizens have long fulfilled their duty to pay taxes in pursuit of a better quality of life in the future (education, healthcare, public resources, etc.) and have established long-term trust relationships with their government. However, the massive influx of undocumented immigrants has resulted in the nation's own citizens failing to enjoy the rights they should have through their long-term fulfillment of obligations.
+
 ## Scope / 專案範疇
 1. **Borders too long → physical wall unrealistic**  
    - Starlink + distributed monitoring = *Invisible Border Shield*  
