@@ -16,6 +16,9 @@ could form an *Invisible Border Shield*, balancing **national security** and **c
 
 每個國家都有資源的上限，在權利和義務下，本國公民長期盡義務繳稅收以求未來享受更好的生活品質(教育、醫療、公共資源等) 及和自己政府建立的長期信任關係，卻因非法移民的大量進入導致本國國民沒有享受到長期付義務下應該享有的權利。
 
+-----
+Inspiration Behind This Project
+
 
 ## Research Directions / 研究方向
 - Starlink distributed monitoring  
