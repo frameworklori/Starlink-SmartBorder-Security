@@ -23,6 +23,7 @@ We do **not** make policy; responsibility belongs to **U.S. elected decision-mak
 我們 **不下最終政策決定**，責任由 **美國人民選出的決策者** 承擔。  
 
 ---
+## Inspiration Behind This Project (靈感來源)
 
 The Pricelessness of Life: Why are people willing to traverse mountains and leave their homeland in pursuit of a better life for survival?
 
